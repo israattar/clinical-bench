@@ -1,1 +1,13 @@
+# secrets
 .env
+
+# python
+venv/
+__pycache__/
+*.pyc
+
+# editor
+.vscode/
+
+# raw data (optional)
+data/raw/
